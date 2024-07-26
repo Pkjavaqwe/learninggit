@@ -24,12 +24,12 @@ main {
     padding: 20px;
 }
 
-/* table {
+table {
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 20px;
 }
-
+/*
 table, th, td {
     border: 1px solid #ddd;
 }
