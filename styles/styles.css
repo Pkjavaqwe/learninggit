@@ -103,3 +103,7 @@ button {
 button:hover {
     background-color: #555;
 }
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
